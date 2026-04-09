@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//shixing-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:诗与星演出日历
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALDESC:音乐剧《诗与星》演出日程 (时区: Asia/Shanghai)
+
+BEGIN:VEVENT
+UID:shixing-2026-06-05-1930@shixing-calendar
+DTSTART:20260605T193000
+DTEND:20260605T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 易群\n- 李月圆: 孙乐仟\n- 月娃: 许诗翊\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-06-1430@shixing-calendar
+DTSTART:20260606T143000
+DTEND:20260606T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 范可妮\n- 李月圆: 庞雪倩\n- 月娃: 牟潇钰\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-06-1930@shixing-calendar
+DTSTART:20260606T193000
+DTEND:20260606T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 胥子含\n- 李月圆: 杜钇樵\n- 月娃: 王珏语涵\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-07-1430@shixing-calendar
+DTSTART:20260607T143000
+DTEND:20260607T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 左一平\n- 李月圆: 张沁丹\n- 月娃: 钟嘉媚\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-12-1930@shixing-calendar
+DTSTART:20260612T193000
+DTEND:20260612T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 左一平\n- 李月圆: 庞雪倩\n- 月娃: 钟嘉媚\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-13-1430@shixing-calendar
+DTSTART:20260613T143000
+DTEND:20260613T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 王竞琦\n- 李月圆: 韩冰儿\n- 月娃: 郭美冉\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-13-1930@shixing-calendar
+DTSTART:20260613T193000
+DTEND:20260613T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 易群\n- 李月圆: 杜钇樵\n- 月娃: 王珏语涵\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-14-1430@shixing-calendar
+DTSTART:20260614T143000
+DTEND:20260614T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 胥子含\n- 李月圆: 孙乐仟\n- 月娃: 钟嘉媚\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-18-1930@shixing-calendar
+DTSTART:20260618T193000
+DTEND:20260618T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 胥子含\n- 李月圆: 张沁丹\n- 月娃: 叶嘉雯\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-19-1430@shixing-calendar
+DTSTART:20260619T143000
+DTEND:20260619T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 邓茹月\n- 李月圆: 林钇欣\n- 月娃: 郭美冉\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-19-1930@shixing-calendar
+DTSTART:20260619T193000
+DTEND:20260619T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 左一平\n- 李月圆: 杜钇樵\n- 月娃: 钟嘉媚\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-20-1430@shixing-calendar
+DTSTART:20260620T143000
+DTEND:20260620T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 易群\n- 李月圆: 孙乐仟\n- 月娃: 牟潇钰\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-20-1930@shixing-calendar
+DTSTART:20260620T193000
+DTEND:20260620T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 王竞琦\n- 李月圆: 韩冰儿\n- 月娃: 许诗翊\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-21-1430@shixing-calendar
+DTSTART:20260621T143000
+DTEND:20260621T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 范可妮\n- 李月圆: 庞雪倩\n- 月娃: 牟潇钰\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-21-1930@shixing-calendar
+DTSTART:20260621T193000
+DTEND:20260621T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 左一平\n- 李月圆: 张沁丹\n- 月娃: 王珏语涵\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-27-1430@shixing-calendar
+DTSTART:20260627T143000
+DTEND:20260627T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 左一平\n- 李月圆: 庞雪倩\n- 月娃: 郭美冉\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-27-1930@shixing-calendar
+DTSTART:20260627T193000
+DTEND:20260627T213000
+SUMMARY:晚🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 范可妮\n- 李月圆: 孙乐仟\n- 月娃: 许诗翊\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+BEGIN:VEVENT
+UID:shixing-2026-06-28-1430@shixing-calendar
+DTSTART:20260628T143000
+DTEND:20260628T163000
+SUMMARY:午🌌诗与星
+DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 邓茹月\n- 李月圆: 林钇欣\n- 月娃: 郭美冉\n
+LOCATION:星空间408号·她剧场
+END:VEVENT
+
+END:VCALENDAR
