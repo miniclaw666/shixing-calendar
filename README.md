@@ -64,7 +64,7 @@ GitHub Actions 每天自动同步一次数据（北京时间 10:00）
 
 ## 📝 数据来源
 
-演出数据来自 [烧剧网](https://y.saoju.net)
+演出数据来自 [扫剧网](https://y.saoju.net/yyj/)
 
 ---
 
