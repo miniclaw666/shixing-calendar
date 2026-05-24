@@ -62,9 +62,9 @@ def create_ics_event(show):
         
         # 北京时间 14:30 = 午场, 19:30 = 晚场
         if dt.hour == 14:
-            summary = "午🌌诗与星"
+            summary = "午💫诗与星"
         else:
-            summary = "晚🌌诗与星"
+            summary = "晚💫诗与星"
     except Exception as e:
         print(f"⚠️ 时间解析失败: {time_str}, 错误: {e}")
         summary = "诗与星"
