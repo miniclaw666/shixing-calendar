@@ -9,7 +9,7 @@
 **复制下面的链接，添加到你的日历 App：**
 
 ```
-https://miniclaw666.github.io/shixing-calendar/calendar.ics
+https://raw.githubusercontent.com/miniclaw666/shixing-calendar/master/calendar.ics
 ```
 
 ### iPhone / iPad（日历 App）
