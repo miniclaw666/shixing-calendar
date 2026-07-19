@@ -8,15 +8,6 @@ X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:音乐剧《诗与星》演出日程 (时区: Asia/Shanghai)
 
 BEGIN:VEVENT
-UID:shixing-2026-06-18-1930@shixing-calendar
-DTSTART:20260618T193000
-DTEND:20260618T213000
-SUMMARY:晚💫诗与星
-DESCRIPTION:城市: 上海\n剧院: 星空间408号·她剧场\n\n卡司:\n- 辛辰: 胥子含\n- 李月圆: 张沁丹\n- 月娃: 叶嘉雯\n
-LOCATION:星空间408号·她剧场
-END:VEVENT
-
-BEGIN:VEVENT
 UID:shixing-2026-06-19-1430@shixing-calendar
 DTSTART:20260619T143000
 DTEND:20260619T163000
