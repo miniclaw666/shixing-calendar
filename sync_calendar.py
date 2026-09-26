@@ -78,21 +78,20 @@ def create_ics_event(show):
     else:
         start = end = ""
 
-    # 地点
+    # 地点（保留在 LOCATION 字段中）
     theatre = escape_ics_text(show.get("theatre", ""))
-    city = escape_ics_text(show.get("city", ""))
 
-    # 描述：包含城市、剧院、卡司
-    description = f"城市: {city}\\n"
-    description += f"剧院: {theatre}\\n\\n"
-
+    # 描述：只包含演员名字，格式 "卡司：演员甲、演员乙"
     cast = show.get("cast", [])
-    if cast:
-        description += "卡司:\\n"
-        for c in cast:
-            role = escape_ics_text(c.get("role", ""))
-            artist = escape_ics_text(c.get("artist", ""))
-            description += f"- {role}: {artist}\\n"
+    artists = []
+    for c in cast:
+        artist = escape_ics_text(c.get("artist", ""))
+        if artist:
+            artists.append(artist)
+    if artists:
+        description = "卡司：" + "、".join(artists)
+    else:
+        description = ""
 
     # 唯一ID
     uid = f"shixing-{time_str.replace(' ', '-').replace(':', '')}"
